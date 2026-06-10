@@ -1,0 +1,1 @@
+[2026-06-09 22:33:20.080402 - errors] WARNING: ArgumentException: Commands can only have up to one argument. 
